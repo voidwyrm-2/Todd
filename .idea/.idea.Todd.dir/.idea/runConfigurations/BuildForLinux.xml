@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BuildForLinux" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish delete_existing_files="true" include_all_content_for_self_extract="true" include_native_libs_for_self_extract="true" produce_single_file="true" runtime="linux-x64" target_folder="$PROJECT_DIR$/bin/net8.0/linux-x64" target_framework="net8.0" uuid_high="-7594842750267001915" uuid_low="3597553082023288383" />
+    <method v="2">
+      <option name="Build Solution" enabled="true" />
+    </method>
+  </configuration>
+</component>

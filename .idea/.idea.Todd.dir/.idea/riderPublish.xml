@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LocationsWithSilentDeleteHolder">
+    <option name="locations">
+      <list>
+        <option value="$PROJECT_DIR$/bin/net8.0/mac-arm64/publish" />
+        <option value="$PROJECT_DIR$/bin/net8.0/win-x64/publish" />
+        <option value="$PROJECT_DIR$/bin/net8.0/win-x64" />
+        <option value="$PROJECT_DIR$/bin/net8.0/osx-arm64" />
+        <option value="$PROJECT_DIR$/bin/net8.0/linux-x64" />
+        <option value="$PROJECT_DIR$/bin/net8.0/portable" />
+      </list>
+    </option>
+  </component>
+</project>

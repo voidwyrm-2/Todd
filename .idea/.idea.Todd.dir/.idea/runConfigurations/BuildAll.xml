@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BuildAll" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish delete_existing_files="true" include_all_content_for_self_extract="true" include_native_libs_for_self_extract="true" produce_single_file="true" runtime="win-x64" target_folder="$PROJECT_DIR$/bin/net8.0/portable" target_framework="net8.0" uuid_high="-7594842750267001915" uuid_low="3597553082023288383" />
+    <method v="2">
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="BuildForWindows" run_configuration_type="DotNetFolderPublish" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="BuildForMac" run_configuration_type="DotNetFolderPublish" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="BuildForLinux" run_configuration_type="DotNetFolderPublish" />
+    </method>
+  </configuration>
+</component>
