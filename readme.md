@@ -2,14 +2,14 @@
 
 Todd is a customizable Discord RPC meant to allow you to have a custom Discord activity
 
-# Installation
+## Installation
 
 1. Go to the [Discord Developer Portal](<https://discord.com/developers/applications>) and click "New Application"
 2. Name your application something (I named mine "Todd")
 3. Keep that tab open, you'll need it in a second
-4. Download an executable from the Releases on the right
+4. Download a zip file from the Releases on the right
     - win-x64: Windows on Intel or AMD, osx-arm64: MacOS, linux-x64: Linux on Intel or AMD
-5. Move it to any folder you can `cd` into easily
+5. Move it to any folder you can `cd` into easily and unzip it
 6. Open a terminal `cd` to the folder with the executable
     - if you're on Windows, CMD or Powershell are fine, and you're free to use something else if you want
 7. Go back to tab with your application and click the "Copy" button under "APPLICATION ID"
